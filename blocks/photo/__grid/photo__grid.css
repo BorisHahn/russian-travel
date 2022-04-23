@@ -17,11 +17,14 @@ gap: 16px;
   .photo__grid {
     grid-template-columns: repeat(2, minmax(auto, 352px));
     gap: 16px;
+    padding-left: 24px;
+    padding-right: 24px;
   }
 }
 @media (max-width: 320px) {
   .photo__grid {
     grid-template-columns: 288px;
     gap: 16px;
+    padding: 0;
   }
 }
