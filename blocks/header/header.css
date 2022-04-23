@@ -1,0 +1,14 @@
+.header {
+width: 92.52%;
+min-height: 52px;
+margin: 0 auto;
+padding-top: 28px;
+display: flex;
+flex-direction: row;
+align-items: center;
+}
+@media (max-width: 320px) {
+  .header {
+    padding-top: 16px;
+  }
+}

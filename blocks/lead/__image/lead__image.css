@@ -1,0 +1,21 @@
+.lead__image {
+width: 100%;
+margin: 0;
+padding: 0;
+padding-top: 64px;
+}
+@media (max-width: 1024px) { 
+    .lead__image {
+        padding-top: 56px;
+    }
+  }
+  @media (max-width: 768px) { 
+      .lead__image {
+        padding-top: 56px;
+      }
+    }
+  @media (max-width: 320px) {
+    .lead__image {
+        padding-top: 40px;
+    }
+  }

@@ -1,0 +1,21 @@
+.place__paragraph-list {
+list-style: none;
+margin: 0;
+padding: 0;
+display: flex;
+flex-direction: column;
+gap: 26px 0;
+justify-content: flex-start;
+align-items: flex-start;
+}
+@media (max-width: 768px) {
+  .place__paragraph-list {
+    gap: 25px 0;
+  }
+}
+@media (max-width: 320px) {
+  .place__paragraph-list {
+    margin-left: 16px;
+    margin-right: 16px;
+  }
+}

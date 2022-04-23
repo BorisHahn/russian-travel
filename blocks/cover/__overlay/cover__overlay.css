@@ -1,0 +1,19 @@
+.cover__overlay {
+padding: 0;
+margin: 0 auto;
+width: 100%;
+height: 100%;
+position: absolute;
+top: 0;
+background: #2A2C2F;
+opacity: 0.3;
+z-index: 2;
+cursor: pointer;
+grid-column-start: 1;
+grid-row-start: 1;
+}
+
+.cover__overlay:hover {
+opacity: 0.8; 
+}
+
