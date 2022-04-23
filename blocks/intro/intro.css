@@ -2,14 +2,29 @@
 max-width: 984px;
 margin: 0 auto;
 padding-top: 92px;
+padding-left: 48px;
 display: flex;
 flex-direction: column;
 justify-content: flex-start;
 align-items: flex-start;
 }
+@media (max-width: 1024px) { 
+  .intro {
+      max-width: 690px;
+  }
+}
 @media (max-width: 768px) { 
   .intro {
      padding-top: 88px;
      max-width: 720px;
+     padding-left: 24px;
+     padding-right: 24px;
+  }
+}
+@media (max-width: 320px) { 
+  .intro {
+     padding-left: 16px;
+     padding-right: 16px;
+     max-width: 288px;
   }
 }

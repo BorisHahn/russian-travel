@@ -7,10 +7,17 @@
     justify-content: flex-start;
     align-items: center;
 }
-
+@media (max-width: 1024px) { 
+  .lead {
+    padding-top: 48px;
+    margin: 0;
+    padding-left: 48px;
+    padding-right: 48px;
+  }
+}
 @media (max-width: 768px) { 
     .lead {
-      padding-top: 48px;
+      padding: 48px 0px 0px;
     }
   }
 @media (max-width: 320px) {

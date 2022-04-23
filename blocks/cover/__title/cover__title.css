@@ -16,7 +16,7 @@ grid-row-start: 1;
     .cover__title {
       max-width: 288px;
       font-size: 32px;
-      line-height: 35px;
+      line-height: 109%;
       padding-bottom: 50px;
     }
   }
