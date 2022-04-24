@@ -4,9 +4,10 @@
   justify-content: flex-end;
   align-items: flex-start;
 }
-@media (max-width: 768px) {
+
+@media (max-width: 717px) {
   .place__website {
-    padding-left: 24px;
+    padding-left: 16px;
   }
 }
 @media (max-width: 320px) {

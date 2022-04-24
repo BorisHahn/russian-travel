@@ -11,11 +11,9 @@ align-items: flex-start;
 @media (max-width: 768px) {
   .place__paragraph-list {
     gap: 25px 0;
-    padding-left: 24px;
-    padding-right: 24px;
   }
 }
-@media (max-width: 320px) {
+@media (max-width: 717px) {
   .place__paragraph-list {
     padding-left: 16px;
     padding-right: 16px;
