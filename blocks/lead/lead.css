@@ -1,11 +1,11 @@
 .lead {
-    max-width: 984px;
-    margin: 0 auto;
-    padding-top: 56px;
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
-    align-items: center;
+  max-width: 984px;
+  margin: 0 auto;
+  padding-top: 56px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
 }
 @media (max-width: 1024px) { 
   .lead {
@@ -16,10 +16,10 @@
   }
 }
 @media (max-width: 768px) { 
-    .lead {
-      padding: 48px 0px 0px;
-    }
+  .lead {
+    padding: 48px 0px 0px;
   }
+}
 @media (max-width: 320px) {
   .lead {
     padding-top: 48px;

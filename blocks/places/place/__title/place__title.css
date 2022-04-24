@@ -1,11 +1,11 @@
 .place__title {
-margin: 0;
-padding: 0 ;
-box-sizing: border-box;
-font-style: normal;
-font-weight: 900;
-font-size: 72px;
-line-height: 106%;
+  margin: 0;
+  padding: 0 ;
+  box-sizing: border-box;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 72px;
+  line-height: 106%;
 }
 @media (max-width: 1023px) {
   .place__title {
@@ -17,7 +17,6 @@ line-height: 106%;
   .place__title {
     font-size: 42px;
     line-height: 110%;
-
   }
 }
 @media (max-width: 717px) {

@@ -1,11 +1,11 @@
 .photo__grid {
-padding: 0;
-margin: 0 auto;
-list-style: none;
-display: grid;
-justify-content: center;
-grid-template-columns: repeat(4, minmax(auto, 284px));
-gap: 16px;
+  padding: 0;
+  margin: 0 auto;
+  list-style: none;
+  display: grid;
+  justify-content: center;
+  grid-template-columns: repeat(4, minmax(auto, 284px));
+  gap: 16px;
 }
 @media (max-width: 1185px) {
   .photo__grid {

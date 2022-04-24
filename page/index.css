@@ -38,10 +38,3 @@
 @import url(../blocks/footer/__row-links/footer__row-links.css);
 @import url(../blocks/footer/__link/footer__link.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);
-
-
-/* @font-face {
-font-family: "Inter"; 
-src: url("../fonts/Inter Desktop/Inter-V.ttf") format("truetype"); 
-}  */
-
