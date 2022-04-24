@@ -41,13 +41,13 @@
 
 @font-face {
   font-family: "Inter";
-  src:  url('/fonts/InterWeb/Inter-Regular.woff');
+  src:  url('../fonts/InterWeb/Inter-Regular.woff');
   font-weight: 400;
   font-style: normal;
 }
 @font-face {
   font-family: "Inter";
-  src:  url('/fonts/InterWeb/Inter-Black.woff');
+  src:  url('../fonts/InterWeb/Inter-Black.woff');
   font-weight: 900;
   font-style: normal;
 }
