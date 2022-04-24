@@ -1,3 +1,15 @@
+@font-face {
+  font-family: "Inter";
+  src:  url('../../fonts/Desktop/Inter-Regular.ttf');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Inter";
+  src:  url('../../fonts/Desktop/Inter-Black.ttf');
+  font-weight: 900;
+  font-style: normal;
+}
 .page {
   min-width: 320px;
   max-width: 1280px;
