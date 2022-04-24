@@ -6,6 +6,12 @@
 }
 @font-face {
   font-family: "Inter";
+  src:  url('../../fonts/Desktop/Inter-Medium.ttf');
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Inter";
   src:  url('../../fonts/Desktop/Inter-Black.ttf');
   font-weight: 900;
   font-style: normal;
