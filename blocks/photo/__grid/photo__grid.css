@@ -24,7 +24,7 @@
 @media (max-width: 320px) {
   .photo__grid {
     grid-template-columns: 288px;
-    gap: 16px;
+    gap: 12px;
     padding: 0;
   }
 }

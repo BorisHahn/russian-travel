@@ -3,16 +3,11 @@
   flex-direction: column;
   justify-content: flex-end;
   align-items: flex-start;
+  gap: 12px
 }
 
 @media (max-width: 717px) {
   .place__website {
     padding-left: 16px;
-  }
-}
-@media (max-width: 320px) {
-  .place__website {
-    padding-left: 16px;
-
   }
 }
