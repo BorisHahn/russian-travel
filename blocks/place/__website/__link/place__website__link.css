@@ -1,4 +1,4 @@
-.place__website_link {
+.place__website__link {
   display: block;
   max-width: 456px;
   font-style: normal;
@@ -9,7 +9,7 @@
   text-transform: none;
   color: #FFFFFF;
 }
-.place__website_link:hover {
+.place__website__link:hover {
   opacity: 0.8;
   transition: 1s;
 }
