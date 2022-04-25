@@ -3,7 +3,7 @@
   flex-direction: column;
   justify-content: flex-end;
   align-items: flex-start;
-  gap: 12px
+  gap: 12px;
 }
 
 @media (max-width: 717px) {
