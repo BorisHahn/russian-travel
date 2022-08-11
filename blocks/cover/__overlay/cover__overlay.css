@@ -5,12 +5,10 @@
   height: 100%;
   position: absolute;
   top: 0;
-  background: #2A2C2F;
-  opacity: 0.3;
+  background: #2d6cca;
+  opacity: 0;
   z-index: 2;
   cursor: pointer;
-  grid-column-start: 1;
-  grid-row-start: 1;
 }
 
 .cover__overlay:hover {
